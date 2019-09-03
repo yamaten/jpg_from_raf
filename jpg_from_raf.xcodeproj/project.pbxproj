@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		CEDA37DC23017A69004BC1C0 /* jpg_from_raf */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = jpg_from_raf; sourceTree = BUILT_PRODUCTS_DIR; };
-		CEDA37DF23017A69004BC1C0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		CEDA37DF23017A69004BC1C0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = jpg_from_raf/main.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
